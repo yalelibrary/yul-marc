@@ -1,0 +1,26 @@
+=LDR  01251cas a2200313 i 4500
+=001  14712969
+=005  20191209173453.0
+=008  020530d194u1945dcu\r\p\\\\\\\0\\\a0eng\d
+=035  \\$a14712969
+=040  \\$aCtY-BR$beng$erda$cCtY-BR
+=043  \\$an-us---
+=079  \\$a(OCoLC)1129922998
+=130  0\$aInformation digest (United States. War Relocation Authority)
+=245  10$aInformation digest :$bfor the use of the WRA staff /$cWar Relocation Authority.
+=246  17$aWRA information digest
+=264  \\$aWashington, D.C. :$bWar Relocation Authority
+=300  \\$avolumes ;$c27 cm
+=336  \\$atext$btxt$2rdacontent
+=337  \\$aunmediated$bn$2rdamedia
+=338  \\$avolume$bnc$2rdacarrier
+=362  1\$aCeased with: October 17, 1945.
+=500  \\$aReproduced from typescript.
+=588  0\$aJuly/August 1945; title from caption.
+=588  1\$aOctober 17, 1945.
+=610  10$aUnited States.$bWar Relocation Authority$vPeriodicals.
+=650  \0$aJapanese Americans$xEvacuation and relocation, 1942-1945$vPeriodicals.
+=610  17$aUnited States.$bWar Relocation Authority.$2fast$0(OCoLC)fst00517693
+=710  1\$aUnited States.$bWar Relocation Authority.$0http://id.loc.gov/authorities/names/n50068996
+=752  \\$aUnited States$dWashington (D.C.)
+

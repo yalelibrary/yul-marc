@@ -1,0 +1,33 @@
+=LDR  01754cam a2200397 a 4500
+=001  903055
+=005  20191206124850.0
+=008  900326s1988\\\\ja\a\\\\\\\\\\00010ajpn\\
+=010  \\$a   89149747 /AJ
+=020  \\$a4893682105 :$cY1800
+=035  \\$a(OCoLC)ocn709151705
+=035  \\$a(CStRLIN)CTYO90-B2922
+=035  \\$9AFH2675YL
+=035  \\$a903055
+=043  \\$an-us-ca
+=050  0\$aD753.8$b.Y67 1988 <Orien Japan>
+=079  \\$aocm20564788
+=090  \\$aD753.8$b.Y67 l988$i03/26/90 TZ
+=066  \\$c{dollar}1
+=100  10$aYoneda, Karl G.,$d1906-
+=245  10$6880-01$aManzanā Kyōsei Shūyōjo nikki /$c[chosha Kāru Yoneda] = Manzanar Concentration Camp diary : 12/7/41--12/17/42 / by Karl G. Yoneda.
+=250  \\$6880-02$aShohan.
+=260  0\$6880-03$aTōkyō :$bPMC Shuppan,$c1988.
+=300  \\$a290 p. :$bill. ;$c20 cm.
+=583  1\$acommitted to retain$c20170930$d20421231$fHathiTrust$5CtY$zTo help ensure preservation of print and digital collections, this title is retained by Yale University Library on behalf of the HathiTrust Shared Print Program.
+=600  10$aYoneda, Karl G.,$d1906-$xDiaries.
+=650  \0$aJapanese Americans$zCalifornia$xDiaries.
+=650  \0$aJapanese Americans$xEvacuation and relocation, 1942-1945$xHistory.
+=610  20$aManzanar War Relocation Center$xHistory.
+=740  01$aManzanar Concentration Camp diary.
+=880  10$6245-01/{dollar}1$aマンザナ－強制収容所日記 /$c[著者カール・ヨネダ = Manzanar Concentration Camp diary : 12/7/41--12/17/42 / by Karl G. Yoneda.
+=880  \\$6250-02/{dollar}1$a初版.
+=880  0\$6260-03/{dollar}1$a東京 :$bPMC 出版,$c1988.
+=950  \\$lS
+=955  \\$lS$c1$i03/26/90 C
+=998  \\$a03/26/90$tc$s9114$nCtY$wDCLP89B13569$d03/26/90$cMI $bEAT$i900326$lCTYO
+
