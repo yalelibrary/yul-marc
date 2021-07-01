@@ -1,19 +1,19 @@
-=LDR  02711cpcaa2200397 a 4500
+=LDR  03062cpcaa2200409 a 4500
 =001  12704951
-=005  20180604132536.0
+=005  20210701094921.0
 =006  e\\\\\\\a\\\\\0\\\
 =006  knnn\\\\\\\\\\\\kn
 =008  160222i19441945ctu\\\\\\\\\\\\\\\\\eng\d
 =035  \\$a12704951
 =040  \\$aCtY-BR$beng$cCtY-BR$edacs
-=079  \\$a(OCoLC)1000603686
+=079  \\$a1000603686
 =100  1\$aSasaki, Ben S.
 =245  10$aBen S. Sasaki papers,$f1944-1945.
 =300  \\$a10$fitems.
 =351  \\$bArranged chronologically.
 =506  0\$aThis material is open for research.
-=545  \\$aBen S. Sasaki (born 1920) was forced to relocate from Salinas or Monterrey, California to the Gila River Relocation Center near Phoenix, Arizona during the internment of Japanese Americans in World War II.
-=520  \\$aPhotographs, publications, dance programs, and a printed map of the canal colony block of the Gila River Relocation Center, located near Phoenix, Arizona, created or compiled by Ben S. Sasaki during internment. The photographs include images of the relocation center and its occupants. The publications include an 1945 April 8 issue of the Canal Bussei News, a newsletter regarding events at the relocation center, and a 1944 November 11 Armistice Day Supplement report of Gila River internees enlisted during World War II.
+=545  \\$aBen S. Sasaki (born 1920) was forcibly removed by the United States government from Salinas or Monterrey, California to the Gila River Relocation Center, an American concentration camp near Phoenix, Arizona during the incarceration of Japanese Americans in World War II.
+=520  \\$aPhotographs, publications, dance programs, and a printed map of the canal colony block of the Gila River Relocation Center, an American concentration camp located near Phoenix, Arizona, created or compiled by Ben S. Sasaki during his incarceration. The photographs include images of the camp and its occupants. The publications include an 1945 April 8 issue of the Canal Bussei News, a newsletter regarding events at the camp, and a 1944 November 11 Armistice Day Supplement report of Gila River incarcerees enlisted during World War II.
 =561  \\$aPurchased from Vigilante Rare Documents on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2015.
 =546  \\$aIn English.
 =524  \\$aBen S. Sasaki Papers. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.
@@ -30,4 +30,5 @@
 =655  \7$aMaps (documents)$zArizona$y20th century.$2aat
 =655  \7$aMilitary records$zUnited States$y20th century.$2aat
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

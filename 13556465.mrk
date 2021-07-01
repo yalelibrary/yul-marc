@@ -1,12 +1,12 @@
-=LDR  02435cpcaa2200397 i 4500
+=LDR  02711cpcaa2200409 i 4500
 =001  13556465
-=005  20181017173410.0
+=005  20210701095204.0
 =006  knnn\\\\\\\\\\\\kn
 =006  t\\\\\\\\\\\\\\\\\
 =008  180402i19401944azu\\\\\\\\\\\\\\\\\eng\d
 =035  \\$a13556465
 =040  \\$aCtY-BR$beng$cCtY-BR$edcrmmss
-=079  \\$a(OCoLC)1057034101
+=079  \\$a1057034101
 =100  1\$aNishimura, Corrine,$d1928-
 =245  10$aCorrine Nishimura autograph album :$kmanuscript.
 =264  \0$aArizona,$c1940-1944.
@@ -17,7 +17,7 @@
 =500  \\$aDisbound by a former owner.
 =506  0\$aThis material is open for research.
 =545  \\$aCorrine Nishimura (1928-) was imprisoned in an unidentified concentration camp in Arizona during the Second World War, circa 1944.
-=520  \\$aAutograph album containing circa 70 letters and autographs collected by Corrine Nishimura.  Contains circa 55 letters and autographs collected during Nishimura's imprisonment in an unidentified concentration camp in Arizona during internment of Japanese Americans during the Second World War, circa 1944.   Most entries were written by fellow inmates; also includes the autograph of Dillon S. Myer, the Director of the War Relocation Authority, 1942-1946, and circa 17 letters and autographs from Nishimura's classmates in California, circa 1940-1941.  Includes 2 photographs of 3 unidentified women, possibly taken at an unidentified concentration camp.
+=520  \\$aAutograph album containing circa 70 letters and autographs collected by Corrine Nishimura. Contains circa 55 letters and autographs collected during Nishimura's incarceration in an unidentified concentration camp in Arizona during incarceration of Japanese Americans during the Second World War, circa 1944. Most entries were written by fellow incarcerees; also includes the autograph of Dillon S. Myer, the Director of the War Relocation Authority, 1942-1946, and circa 17 letters and autographs from Nishimura's classmates in California, circa 1940-1941. Includes 2 photographs of 3 unidentified women, possibly taken at an unidentified concentration camp.
 =561  \\$aPurchased from Kevin Jackson on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2016.
 =546  \\$aIn English.
 =524  \\$aCorrine Nishimura Autograph Album. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.
@@ -30,4 +30,5 @@
 =655  \7$aAutograph albums.$2aat
 =655  \7$aPhotographs.$2aat
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

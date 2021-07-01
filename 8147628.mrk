@@ -1,12 +1,12 @@
-=LDR  00978cam a2200253Ia 4500
+=LDR  01303cam a2200265Ia 4500
 =001  8147628
-=005  20110328203149.0
+=005  20210701101150.0
 =008  030307s1943\\\\pau\\\\\\\\\\\000\0\eng\d
 =035  \\$a(OCoLC)ocn689494249
 =035  \\$a8147628
 =040  \\$aHDC$cHDC$dCtY-BR
 =043  \\$an-us---
-=079  \\$aocm51816079
+=079  \\$a51816079
 =245  00$aJapanese American student relocation :$ban American challenge.
 =260  \\$aPhiladelphia, Pa. :$bNational Japanese American Student Relocation Council,$c[1943]
 =300  \\$a[4] p. ;$c24 cm.
@@ -18,4 +18,5 @@
 =650  \0$aJapanese Americans$xEvacuation and relocation, 1942-1945.
 =655  \7$aColored paper printings (Publishing)$zPennsylvania$zPhiladelphia$y1943.$2rbpub
 =710  2\$aNational Japanese American Student Relocation Council.
+=954  \\$aThis catalog record contains original descriptive language for materials that may contain outdated or harmful language. The use of this description is not an endorsement of the language it contains. Original descriptive language has been retained to promote searchability and discoverability of the collections.
 

@@ -1,18 +1,18 @@
-=LDR  02888cpcaa2200373 a 4500
+=LDR  03263cpcaa2200385 a 4500
 =001  12604767
-=005  20180529114129.0
+=005  20210701094842.0
 =006  knnn\\\\\\\\\\\\kn
 =008  151028i19401945ctu\\\\\\\\\\\\\\\\\eng\d
 =035  \\$a12604767
 =040  \\$aCtY-BR$beng$cCtY-BR$edacs
 =041  0\$aeng$ajpn
-=079  \\$a(OCoLC)1000591943
+=079  \\$a1000591943
 =100  1\$aTsugawa, Albert,$d1927-2011.
 =245  10$aAlbert Tsugawa papers relating to Tri-Lake High School, Tule Lake Relocation Center,$f1940-1945.
 =300  \\$a0.21$flinear feet (1 box)
 =506  0\$aThis material is open for research.
-=545  \\$aAlbert Tsugawa (1927-2011) was a student in Honolulu, Hawaii when he was forced to relocate to the Tule Lake Relocation Center, near Newell, California, during the internment of Japanese Americans in World War II. During internment at Tule Lake, circa 1942-1945, he attended Tri-Lake High School. After leaving Tule Lake, Tsugawa was a professor of philosophy at Pennsylvania State University.
-=520  \\$aAcademic papers and school programs created or compiled by Albert Tsugawa during internment in the Tule Lake Relocation Center near Newell, California. Also includes one photograph of Tri-State High School students, 1944, school certificates awarded to Tsugawa's siblings in Hawaii, information about relocation in Cleveland, and a war propaganda pamphlet issued by the United States War Department in 1945.
+=545  \\$aAlbert Tsugawa (1927-2011) was a student in Honolulu, Hawaii when the United States goverment forcibly removed him to the Tule Lake Relocation Center, an American concentration camp near Newell, California, during the incarceration of Japanese Americans in World War II. During incarceration at Tule Lake, circa 1942-1945, he attended Tri-Lake High School. After leaving Tule Lake, Tsugawa was a professor of philosophy at Pennsylvania State University.
+=520  \\$aAcademic papers and school programs created or compiled by Albert Tsugawa during his incarceration in the Tule Lake Relocation Center, an American concentration camp near Newell, California. Also includes one photograph of Tri-State High School students, 1944, school certificates awarded to Tsugawa's siblings in Hawaii, information about forced removal in Cleveland, and a war propaganda pamphlet issued by the United States War Department in 1945.
 =561  \\$aPurchased from Vigilante Rare Documents on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2014.
 =546  \\$aIn English and Japanese.
 =524  \\$aAlbert Tsugawa Papers Relating to Tri-Lake High School, Tule Lake Relocation Center. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.
@@ -28,4 +28,5 @@
 =655  \7$aPhotographic prints.$2aat$0http://vocab.getty.edu/aat/300127104
 =655  \7$aMilitary records$zUnited States$y20th century.$2aat
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

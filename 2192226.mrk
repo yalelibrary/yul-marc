@@ -1,21 +1,22 @@
-=LDR  01393cas a2200337 a 4500
+=LDR  01769cas a2200361 a 4500
 =001  2192226
-=005  20190325170637.0
+=005  20210528173420.0
 =008  920130d1942uuuuazua|\\\\\\\\\0\\\\0eng\d
 =035  \\$a(OCoLC)ocn683657589
 =035  \\$9DET7046YL
 =035  \\$a2192226
-=040  \\$aAZP$cAZP$dYUS$dCtY
+=040  \\$aAZP$beng$cAZP$dYUS$dCtY
 =041  1\$aeng$ajap
+=043  \\$an-us-az
 =049  \\$aYUS*$v1(1943)-2(1944)
 =050  \4$aD769.8.A6$bA44
-=079  \\$aocm25189552
+=079  \\$a25189552
 =099  \\$aWQ$a1187
 =110  2\$aAmerican National Red Cross.$bPoston Chapter (Poston, Ariz.)
-=245  11$a[Report of activities at the Colorado River Relocation Center (for Japanese) at Poston, Arizona]
+=245  11$a[Report of activities at the Colorado River Relocation Center (for Japanese) at Poston, Arizona].
 =246  1\$iTitle on cover of first issue:$aStory of the Red Cross in Poston
-=260  \\$a[Poston, Arizona] :$bPublished by the American Red Cross, Colorado River Project, War Relocation
-=300  \\$av. :$billustrations ;$c28 cm.
+=260  \\$a[Poston, Arizona] :$bPublished by the American Red Cross, Colorado River Project, War Relocation.
+=300  \\$av. :$billustrations ;$c28 cm
 =310  \\$aAnnual
 =362  1\$aBegan with 1st year, published in 1943.
 =546  \\$aText in English and Japanese.
@@ -25,4 +26,5 @@
 =650  \0$aWorld War, 1939-1945$xConcentration camps$zArizona$zPoston$vPeriodicals.
 =650  \0$aJapanese Americans$xEvacuation and relocation, 1942-1945$vPeriodicals.
 =610  20$aAmerican Red Cross$vPeriodicals.
+=954  \\$aThis catalog record contains original descriptive language for materials that may contain outdated or harmful language. The use of this description is not an endorsement of the language it contains. Original descriptive language has been retained to promote searchability and discoverability of the collections.$d2021-05-26$7repdesc
 

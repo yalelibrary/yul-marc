@@ -1,12 +1,12 @@
-=LDR  03232ckc a2200493 i 4500
+=LDR  03849ckc a2200517 i 4500
 =001  15377464
-=005  20200914103633.0
+=005  20210701094128.0
 =007  kh\bo|
 =008  200624i19431945azunnn\\\\\\\\\\\\kneng\d
 =035  \\$a15377464
 =040  \\$aCtY-BR$beng$cCtY-BR$edcrmg$erda
 =043  \\$an-us---$an-usp--$an-us-az
-=079  \\$a(OCoLC)1193065121$z(OCoLC)1164381819
+=079  \\$a1193065121
 =100  1\$aMurakami, Shigeru,$ecompiler.
 =245  10$a[Photographs of baseball players in Gila River Relocation Center].
 =264  \0$a[Gila River Relocation Center, Arizona],$c[circa 1943-1945]
@@ -16,7 +16,8 @@
 =338  \\$asheet$2rdacarrier
 =506  0\$aThis material is open for research.
 =545  \\$aShigeru Murakami was incarcerated with his family at Gila River Relocation Center in Arizona, 1942-1945.  Murakami served in the United States Army from 1946 to 1949.
-=520  \\$a12 black and white photographic prints compiled by Shigeru Murakami documenting life in Gila River Relocation Center, circa 1943-1945.  6 photographs depict baseball players and baseball games at Gila River.  5 photographs depict men, women, and children standing outside houses at the camp, and 1 photograph is a portrait of a friend of Murakami's identified as "Joe."  The photographs are accompanied by a program from a 2008 event hosted by the Sacramento River Cats honoring pioneers of Japanese baseball, including Shigeru Murakami.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps.
+=520  \\$a12 black and white photographic prints compiled by Shigeru Murakami documenting life in Gila River Relocation Center, an American concentration camp, circa 1943-1945. 6 photographs depict baseball players and baseball games at Gila River.  5 photographs depict men, women, and children standing outside houses at the camp, and 1 photograph is a portrait of a friend of Murakami's identified as "Joe."  The photographs are accompanied by a program from a 2008 event hosted by the Sacramento River Cats honoring pioneers of Japanese baseball, including Shigeru Murakami.
 =561  \\$aPurchased from Langdon Manor Books, LLC on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2019.
 =546  \\$aSignatures and program in English.
 =500  \\$aTitle supplied by cataloger.
@@ -38,4 +39,5 @@
 =651  \0$aArizona$vPictorial works.$0http://id.loc.gov/authorities/subjects/sh2008114255
 =655  \7$aPhotographs.$2aat
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

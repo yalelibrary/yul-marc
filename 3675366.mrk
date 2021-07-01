@@ -1,6 +1,6 @@
-=LDR  01146cas a22003011  4500
+=LDR  01790cas a22003251  4500
 =001  3675366
-=005  20190814150103.0
+=005  20210701101233.0
 =008  940617d194u194uazuar\\\\\\\\\0uuu\0eng\d
 =035  \\$a(OCoLC)ocn685894224
 =035  \\$9FJF9986YL
@@ -11,8 +11,9 @@
 =260  \\$aPoston, Arizona.
 =300  \\$av.$billus., ports.$c28 cm.
 =310  \\$aAnnual
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps.
 =590  \\$aBEIN 1979 +S7: Imperfect: photograph of Manabu Matsushima / Mien Agareda cut out and removed. Manuscript notes indicating grade levels: 1944.
-=550  \\$aIssued by the students at Poston High School, Poston, Arizona, at the Japanese Relocation Center.
+=550  \\$aIssued by the students at Poston High School, Poston, Arizona, at the American concentration camp Poston Relocation Center.
 =610  20$aPoston High School (Poston, Ariz.)$xStudents$vYearbooks.
 =610  20$aPoston Relocation Center (Poston, Ariz.)$vPeriodicals.
 =650  \0$aJapanese Americans$xEvacuation and relocation, 1942-1945$vPeriodicals.
@@ -22,4 +23,5 @@
 =927  \\$a9408RO
 =928  \\$aAC031197
 =948  \\$arec/rbt
+=954  \\$aThis catalog record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book & Manuscript Library.$d2021-07-01$7repdesc
 

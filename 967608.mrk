@@ -1,6 +1,6 @@
-=LDR  05839cpc a2200865za 4500
+=LDR  06114cpc a2200877za 4500
 =001  967608
-=005  20190423152733.0
+=005  20210701100358.0
 =008  860403i18081978ctu\\\\\\\\\\\\\\\\\eng\d
 =035  \\$9(YUL)ead.mssa.ms.0771
 =035  \\$9AFW1199YL
@@ -8,7 +8,7 @@
 =035  \\$a(OCoLC)ocn702253184
 =035  \\$a967608
 =040  \\$aCtY$beng$cCtY$eappm
-=079  \\$aocn702206605
+=079  \\$a702206605
 =090  \\$bMS 771
 =100  1\$aHarris, Elizabeth Merwin Page,$d1889-1969.
 =245  10$aElizabeth Page Harris papers,$f1808-1978 (inclusive),$g1907-1969 (bulk).
@@ -16,7 +16,7 @@
 =351  \\$aArranged in eight series:  I.  Correspondence, 1895-1973.  II.  Family Papers, 1808-1978.  III.  Grenfell Association, 1921-1969.  IV.  Organizations and Causes, 1916-1968.  V.  Writings, 1914-1971.  VI.  Printed Works, 1881-1959.  VII.  Photographs, 1892-1967.  VIII.  Addition, 1903-1968.
 =506  \\$aThe collection is open for research.
 =540  \\$aCopyright status for collection materials is unknown. Additional information is provided in the finding aid.
-=520  \\$aThe papers contain correspondence, family papers, writings, printed works, photoprints, and other materials documenting the life and career of Elizabeth Page Harris.  The Harris Papers have extensive material on such subjects as family life, single women, publishers and publishing, voluntarism, the International Grenfell Association, American Friends Service Committee, the Society of Friends, Japanese relocation, and pacifism.
+=520  \\$aThe papers contain correspondence, family papers, writings, printed works, photoprints, and other materials documenting the life and career of Elizabeth Page Harris.  The Harris Papers have extensive material on such subjects as family life, single women, publishers and publishing, voluntarism, the International Grenfell Association, American Friends Service Committee, the Society of Friends, Japanese American incarceration, and pacifism.
 =524  \\$aElizabeth Page Harris Papers (MS 771).  Manuscripts and Archives, Yale University Library.
 =545  \\$aElizabeth Merwin Page Harris, author, graduated from Vassar College (1912) and received an M.A. from Columbia University (1914).  She was a teacher (1914-1916), Y.M.C.A. worker during World War I, and an International Grenfell Association volunteer (1921-1925) and secretary (1927-1931).  Elizabeth Page wrote four books, including the 1939 best seller, The Tree of Liberty.  She married Herbert Taylor Harris (1879-1960) in 1954.  Harris died in 1969.
 =555  \\$aFinding aid is available in the repository and on the Internet.
@@ -69,4 +69,5 @@
 =656  \7$aWomen authors.$2lcsh
 =852  \\$aManuscripts and Archives$bYale University Library$eBox 208240, New Haven, CT 06520-8240.
 =856  42$3View a description and listing of collection contents in the finding aid$uhttp://hdl.handle.net/10079/fa/mssa.ms.0771
+=954  \\$aThis catalog record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact Manuscripts and Archives.$d2021-07-01$7repdesc
 

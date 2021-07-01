@@ -1,13 +1,13 @@
-=LDR  01426ckm a2200337Ia 4500
+=LDR  02090ckm a2200361Ia 4500
 =001  14740844
-=005  20191210105632.0
+=005  20210701100741.0
 =007  kf\bo\
 =008  960103s197u\\\\flunnn\\\\\\\\\\\\ineng\d
 =035  \\$a(OCoLC)ocm33982614
 =035  \\$a14740844
 =040  \\$aPGX$beng$cPGX$dOCLCQ$dOCLCF$dOCLCO$dOCL$dOCLCQ$dOCL
 =043  \\$an-us-ca
-=079  \\$a(OCoLC)33982614
+=079  \\$a33982614
 =082  04$a973.045
 =245  00$aRelocation of Japanese Americans.
 =260  \\$aMount Dora, Fla. :$bDocumentary Photo Aids,$c[197?]
@@ -16,7 +16,8 @@
 =337  \\$aunmediated$bn$2rdamedia
 =337  \\$asheet$bnb$2rdacarrier
 =490  1\$aDPA series
-=520  \\$aPhotographs of Japanese Americans who had to leave their homes and businesses during World War II.
+=520  \\$aEducational material featuring photographs of Japanese Americans forcibly removed and incarcerated in American concentration camps during World War II.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps.
 =650  \0$aJapanese Americans$xEvacuation and relocation, 1942-1945$vPictorial works.
 =611  27$aEvacuation and relocation of Japanese Americans (United States : 1942-1945)$2fast$0(OCoLC)fst01801850
 =650  \7$aJapanese Americans.$2fast$0(OCoLC)fst00981441
@@ -25,4 +26,5 @@
 =710  2\$aDocumentary Photo Aids (Firm)$0http://id.loc.gov/authorities/names/n84027077
 =752  \\$aUnited States$bFlorida$dMount Dora.
 =830  \0$aDPA (Series)$0http://id.loc.gov/authorities/names/n2003017578
+=954  \\$aThis catalog record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book & Manuscript Library.$d2021-07-01$7repdesc
 

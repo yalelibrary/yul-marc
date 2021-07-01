@@ -1,18 +1,19 @@
-=LDR  03484cpcaa2200373 a 4500
+=LDR  04120cpcaa2200397 a 4500
 =001  4887545
-=005  20180529114721.0
+=005  20210701094418.0
 =006  t\\\\\\\\\\f000\0\
 =008  020129i19421945ctu\\\\\\\\\\\\\\\\\eng\d
 =035  \\$a(OCoLC)ocn702239619
 =035  \\$9FPJ9738YL
 =035  \\$a4887545
 =040  \\$aCtY-BR$beng$cCtY-BR$eappm
-=079  \\$a(OCoLC)702165015
+=079  \\$a702165015
 =110  1\$aUnited States.$bWar Relocation Authority.$0http://id.loc.gov/authorities/names/n50068996
 =245  10$aUnited States War Relocation Authority reports,$f1942-1945.
 =300  \\$a1.25$flinear ft. (3 boxes)
-=520  \\$aThree volumes of mimeographed War Relocation Authority reports, solicitor's opinions, and administrative instructions relating to the administration of Japanese-American internment camps during World War II. The first volume contains a variety of reports: 13 community analysis reports (nos. 1-11, 13-14) explore Japanese-American culture and causes of unrest at relocation centers. 22 project analysis series reports contain reports from individual internment camps on army registration, religious cults, newly developed Japanese words related to relocation, and labor relations disputes. 12 community analysis notes (nos. 1-7, 9-12, 14) include interviews with Japanese-Americans and summaries of the integration of Japanese-Americans in California communities. 25 weekly summaries, dated December 1944 to June 1945 record reactions by interned Japanese-Americans to plans to close the centers within a year. 
-=520  \\$aA volume of administrative instructions contains over 90 policy memoranda from the War Relocation Authority concerning personnel and camp operation as well as other issues such as absentee voting rights of American citizen evacuees. A small section at the end of this volume contains solicitor's opinions, which are duplicated in the more complete third volume of nearly 90 legal opinions from the Office of the Solicitor at the War Relocation Authority. These opinions address a variety of questions, including "the extent to which Japanese may validly be detained, or their movements restricted, under an exercise of the war power" and "ways in which American citizenship may be lost."
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps.
+=520  \\$aThree volumes of mimeographed War Relocation Authority reports, solicitor's opinions, and administrative instructions relating to the administration of American concentration camps during World War II. The first volume contains a variety of reports: 13 community analysis reports (nos. 1-11, 13-14) explore Japanese-American culture and unrest among incarcerated Japanese Americans. 22 project analysis series reports contain reports from concentration camps on army registration, religious cults, newly developed Japanese words related to forced removal and incarceration, and labor relations disputes. 12 community analysis notes (nos. 1-7, 9-12, 14) include interviews with Japanese Americans and summaries of the integration of Japanese Americans in California communities. 25 weekly summaries, dated December 1944 to June 1945 record reactions by incarcerated Japanese Americans to plans to close the camps within a year.
+=520  \\$aA volume of administrative instructions contains over 90 policy memoranda from the War Relocation Authority concerning personnel and camp operation as well as other issues such as absentee voting rights of incarcerated American citizens. A small section at the end of this volume contains solicitors' opinions, which are duplicated in the more complete third volume, of nearly 90 legal opinions from the Office of the Solicitor at the War Relocation Authority. These opinions address a variety of questions, including "the extent to which Japanese Americans may validly be detained, or their movements restricted, under an exercise of the war power" and "ways in which American citizenship may be lost."
 =555  \\$aAccompanied by container list (in box 1).
 =561  \\$aPurchased from Sotheby's New York on the Frederick W. & Carrie S. Beinecke Fund for Western Americana, 2001.
 =500  \\$aThe reports have been removed from black Herculox binders and housed in boxes.
@@ -28,4 +29,5 @@
 =927  \\$a20020304RO
 =928  \\$aAC04082002
 =948  \\$adms
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

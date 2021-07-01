@@ -1,22 +1,23 @@
-=LDR  02281ckc a2200385 a 4500
+=LDR  02896ckc a2200409 a 4500
 =001  11775348
-=005  20140415181040.0
+=005  20210701095813.0
 =007  kh\bo\
 =008  131122i19441945ctunnn\\\\\\\\\\\\kneng\d
 =035  \\$a(OCoLC)ocn876689688
 =035  \\$a11775348
 =040  \\$aCtY-BR$beng$cCtY-BR$egihc
 =043  \\$an-us-az
-=079  \\$aocn876681004
-=245  00$aPhotographs of Japanese and Japanese American prisoners at the Poston Relocation Center, Arizona.
+=079  \\$a876681004
+=245  00$aPhotographs of Japanese and Japanese American incarcerees at the Poston Relocation Center, Arizona.
 =260  \\$c1944-1945.
-=300  \\$a5 photographic prints :$bb & w ;$c20.5 x 25.3 cm and smaller.
+=300  \\$a5 photographic prints :$bb & w ;$c20.5 x 26 cm and smaller.
 =506  0\$aThis material is open for research.
-=545  \\$aThe Poston Relocation Center in Arizona was the largest of the ten Japanese American internment camps operated by the United States War Relocation Authority during World War II, 1942-1945.
-=520  \\$aExterior group portraits of Japanese and Japanese American prisoners at the Poston Relocation Center, Arizona, 1944-1945. A group portrait created by Shigemi "Frank" Izuo shows a large group of unidentified children, women, and men. Portraits by unidentified photographers include groups of chiefly female students in flower making courses instructed by "Mrs. Sakurai" in 1944 and 1945, and a sewing class instructed by "Mrs. Nakai" in 1945.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps.
+=545  \\$aThe Poston Relocation Center, Arizona, was the largest American concentration camp operated by the United States War Relocation Authority during World War II.
+=520  \\$aExterior group portraits of Japanese and Japanese American incarcerees at the Poston Relocation Center concentration camp, Arizona, 1944-1945. A group portrait created by Shigemi "Frank" Izuo shows a large group of unidentified incarcerated children, women, and men. Portraits by unidentified photographers include groups of chiefly female students in flower making courses instructed by "Mrs. Sakurai" in 1944 and 1945, and a sewing class instructed by "Mrs. Nakai" in 1945.
 =561  \\$aPurchased from Robert McDearmon on the Arthur Corbitt Hoskins Memorial Fund, 2009.
 =500  \\$aTitle devised by cataloger.
-=524  \\$aPhotographs of Japanese and Japanese American Prisoners at the Poston Relocation Center, Arizona. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.
+=524  \\$aPhotographs of Japanese and Japanese American Incarcerees at the Poston Relocation Center, Arizona. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.
 =600  10$aIzuo, Shigemi,$d1900-
 =610  20$aIzuo Studio.
 =610  20$aPoston Relocation Center (Ariz.)$vPictorial works.
@@ -29,4 +30,5 @@
 =700  1\$aIzuo, Shigemi,$d1900-
 =710  2\$aIzuo Studio.
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

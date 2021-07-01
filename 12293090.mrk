@@ -1,11 +1,11 @@
-=LDR  01935cam a22003254i 4500
+=LDR  02290cam a22003374i 4500
 =001  12293090
-=005  20200131161042.0
+=005  20210701101438.0
 =008  141107s1943\\\\caua\\\\\\\\\\000\0\eng\d
 =035  \\$a(OCoLC)ocn895751061
 =035  \\$a12293090
 =040  \\$aCtY-BR$beng$erda$cCtY-BR
-=079  \\$aocn895737598
+=079  \\$a895737598
 =245  00$aToday we follow, tomorrow we lead :$bsenior colors, red and white.
 =246  1\$iWrapper title:$aSenior edition
 =264  \1$a[Newell, California :$bpublisher not identifed,$c1943]
@@ -14,7 +14,7 @@
 =337  \\$aunmediated$2rdamedia
 =338  \\$avolume$2rdacarrier
 =590  \\$aBEIN Zc72 943to: Mimeographed text is very faint, to the point of being unreadable on certain pages. Original wrappers.
-=500  \\$aA mimeographed yearbook for the Tri-State High School at the Tule Lake Relocation Center in Newell, California, an internment camp for Japanese Americans during World War II.
+=500  \\$aA mimeographed yearbook for the Tri-State High School at the Tule Lake Relocation Center in Newell, California, an American concentration camp built to incarcerate Japanese Americans forcibly removed from the West Coast states during World War II.
 =500  \\$a"To the class of '43, the first graduating class of the Tri-State High School, we sincerely dedicate this senior edition of the Tri-Stater"--"Dedication," page 2.
 =500  \\$a"Our journey through high school has been trying but fruitful. There have been critical, discouraging days when our thoughts were filled with pessimistic ideas and doubts as to our future position in this world"--"Prexy's message," page 4.
 =610  20$aTule Lake Relocation Center.
@@ -24,4 +24,5 @@
 =730  0\$aTri-Stater.
 =856  41$3View a selection of digital images in the Beinecke Library's Digital Images Online database$uhttp://beinecke.library.yale.edu/dl_crosscollex/callnumSRCHXC.asp?WC=N&SS=N&CN=Zc72_943to
 =655  \7$aYearbooks.$2lcgft$0http://id.loc.gov/authorities/genreForms/gf2014026208
+=954  \\$aThis catalog record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book & Manuscript Library.$d2021-07-01$7repdesc
 

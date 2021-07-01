@@ -1,6 +1,6 @@
-=LDR  01766cas a2200397 a 4500
+=LDR  02420cas a2200421 a 4500
 =001  479559
-=005  20150915181039.0
+=005  20210528173307.0
 =008  840830d19421942cauwr\n\\\\\\\0\\\a0eng\d
 =035  \\$a(OCoLC)ocn702891416
 =035  \\$9ACA1949YL
@@ -8,7 +8,7 @@
 =040  \\$aCtY-BR$beng$cCtY-BR$dCtY
 =043  \\$an-us-ca
 =050  \4$aD769.8.A6$bT85
-=079  \\$aocn702602757
+=079  \\$a702602757
 =245  00$aTulean dispatch magazine.
 =260  \\$aNewell, California :$bThe Daily Tulean Dispatch, W.R.A.
 =300  \\$av. ;$c22-36 cm
@@ -17,17 +17,19 @@
 =321  \\$aNov. 1942- <Mar. 1943>
 =500  \\$aTitle varies slightly.
 =500  \\$aForms volume 1 of Tulean dispatch daily which reserved the volume number "1" for its magazine, and began with v. 2, June 15, 1942.  Vol. 1 of the magazine ran concerrently with v. 2-6 of the daily periodical.
-=500  \\$aPublished at the Tule Lake relocation center established by the War Relocation Authority for civilians of Japanese ancestry.  In Sept. 1943, this relocations center became a segregations center.
+=500  \\$aPublished at the Tule Lake Relocation Center, an American concentration camp established by the War Relocation Authority for civilians of Japanese ancestry.
 =588  \\$aCover title.
 =550  \\$aPublished at the Tule Lake Relocation Center established by the War Relocation Authority.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps.
 =610  20$aTule Lake Relocation Center$vPeriodicals.
 =650  \0$aJapanese Americans$xEvacuation and relocation, 1942-1945$vNewspapers.
 =651  \0$aTulelake (Calif.)$vNewspapers.
 =651  \0$aNewell (Calif.)$vNewspapers.
 =690  \4$aAmerican newspapers$zCalifornia$zNewell.
-=710  1\$aUnited States.$bWar Relocation Authority.
-=710  2\$aTule Lake Relocation Center.
+=710  1\$aUnited States.$bWar Relocation Authority.$0http://id.loc.gov/authorities/names/n50068996
+=710  2\$aTule Lake Relocation Center.$0http://id.loc.gov/authorities/names/no2002093430
 =730  0\$aDaily Tulean dispatch.
 =752  \\$aUnited States$bCalifornia$cModoc$dTule Lake.
 =785  00$tTulean dispatch$w(DLC)sn 84025953
+=954  \\$aThis catalog record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact Yale University Library.$d2021-05-26$7repdesc
 

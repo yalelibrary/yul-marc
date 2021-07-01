@@ -1,19 +1,19 @@
-=LDR  03980cpcaa2200493 a 4500
+=LDR  04581cpcaa2200505 a 4500
 =001  9617954
-=005  20180604133245.0
+=005  20210701094508.0
 =006  knnn\\\\\\\\\\\\kn
 =008  101217i19431992ctu\\\\\\\\\\\\\\\\\eng\d
 =035  \\$a9617954
 =040  \\$aCtY-BR$beng$cCtY-BR$edacs
 =041  0\$aeng$ajpn
 =043  \\$an-us-az
-=079  \\$a(OCoLC)1007231449
+=079  \\$a1007231449
 =100  1\$aCourage, Mary Burford,$ecollector.
 =245  10$aMary Burford Courage papers related to the Poston Relocation Center, Arizona,$f1943-1992.
 =300  \\$a0.21$flinear feet (1 box) + 1 broadside folder.
-=545  \\$aThe Poston Relocation Center in Arizona was the largest of the ten Japanese American internment camps operated by the United States War Relocation Authority during World War II, 1942-1945.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps. Poston Relocation Center in Arizona was the largest of the ten American concentration camps operated by the United States War Relocation Authority during World War II, 1942-1945.
 =545  \\$aMary Burford Courage (born circa 1897) taught English language classes at Poston II High School at the Poston Relocation Center, Arizona, 1943-1945. After World War II she taught at the Kahuku High and Elementary School in Hawaii.
-=520  \\$aPublications and a small group of correspondence and photographs related to the Poston Relocation Center, Arizona, 1943-1945, collected by Mary Burford Courage, a schoolteacher at the camp.  Publications published by the United States War Relocation Authority include information distributed to employees and residents of the camp. The collection includes contemporary newspaper clippings and issues of the Pacific Citizen newspaper in 1944, as well as related newspaper clippings from 1992 about the evacuation and relocation of Japanese Americans.   Photographs in the collection include overviews of the camp, as well as informal portraits of children and a view of a toy lending library. The collection also includes photographic Christmas cards, circa 1952-1955, from the Kitaji family, who were former residents of the camp.
+=520  \\$aPublications and a small group of correspondence and photographs related to the Poston Relocation Center, Arizona, 1943-1945, collected by Mary Burford Courage, a schoolteacher at the camp. Publications published by the United States War Relocation Authority include information distributed to employees and Japanese Americans incarcerated in the camp. The collection includes contemporary newspaper clippings and issues of the Pacific Citizen newspaper in 1944, as well as related newspaper clippings from 1992 about the forced removal and incarceration of Japanese Americans. Photographs in the collection include overviews of the camp, as well as informal portraits of children and a view of a toy lending library. The collection also includes photographic Christmas cards, circa 1952-1955, from the Kitaji family, who were incarcerated in the camp.
 =561  \\$aPurchased from William Reese Co. on the William Robertson Coe Fund No. 3, 2010.
 =546  \\$aChiefly in English; some items in Japanese.
 =524  \\$aMary Burford Courage Papers Related to the Poston Relocation Center, Arizona. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.
@@ -38,4 +38,5 @@
 =710  1\$aUnited States.$bWar Relocation Authority.$0http://id.loc.gov/authorities/names/n50068996
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
 =856  41$3View a selection of digital images in the Beinecke Library's Digital Images Online database$uhttp://beinecke.library.yale.edu/dl_crosscollex/callnumSRCHXC.asp?WC=N&SS=N&CN=WA_MSS_S-2651
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

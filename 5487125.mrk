@@ -1,6 +1,6 @@
-=LDR  02769cas a2200469K  4500
+=LDR  03108cas a2200481K  4500
 =001  5487125
-=005  20190401173942.0
+=005  20210528173415.0
 =008  840127d19431946dcuuu\\\\\\\\f0\\\\0eng\d
 =019  \\$a430512988
 =035  \\$a(OCoLC)ocm21100676
@@ -11,7 +11,7 @@
 =043  \\$an-us---
 =049  \\$aYUSS
 =050  \4$aD769.8.A6$bA336
-=079  \\$a(OCoLC)21100676
+=079  \\$a21100676
 =086  0\$aI 52.10:
 =110  1\$aUnited States.$bWar Relocation Authority.$bCommunity Analysis Section.$0http://id.loc.gov/authorities/names/no2001087052
 =245  10$aProject analysis series.
@@ -26,7 +26,7 @@
 =590  \\$aSML,Y Cb4y J27 +Un33p: Photocopy. Lacks no.24
 =650  \0$aJapanese Americans$xEvacuation and relocation, 1942-1945.$0http://id.loc.gov/authorities/subjects/sh85069606
 =650  \0$aJapanese$zUnited States.$0http://id.loc.gov/authorities/subjects/sh85069596
-=650  \0$aConcentration camps$zUnited States.$0http://id.loc.gov/authorities/subjects/sh85029609
+=650  \0$aInternment camps$zUnited States.$0http://id.loc.gov/authorities/subjects/sh85029609
 =611  27$aEvacuation and relocation of Japanese Americans (United States : 1942-1945)$2fast$0(OCoLC)fst01801850
 =650  \7$aJapanese Americans.$2fast$0(OCoLC)fst00981441
 =650  \7$aConcentration camps.$2fast$0(OCoLC)fst00872933
@@ -36,4 +36,5 @@
 =655  \7$aPeriodicals.$2fast$0(OCoLC)fst01411641
 =776  08$iOnline version:$aUnited States. War Relocation Authority. Community Analysis Section.$tProject analysis series$w(OCoLC)701754509
 =856  41$uhttp://www.sos.wa.gov/history/publications_detail.aspx?p=135$zView online version from Washington State Library.
+=954  \\$aThis catalog record contains original descriptive language for materials that may contain outdated or harmful language. The use of this description is not an endorsement of the language it contains. Original descriptive language has been retained to promote searchability and discoverability of the collections.$d2021-05-26$7repdesc
 

@@ -1,11 +1,11 @@
-=LDR  04101cpcaa2200565 i 4500
+=LDR  04415cpcaa2200577 i 4500
 =001  13429697
-=005  20191008125842.0
+=005  20210701095139.0
 =006  t\\\\\\\\\\\\\\\\\
 =008  180118s1943\\\\txu\\\\\\\\\\\\\\\\\eng\d
 =035  \\$a13429697
 =040  \\$aCtY-BR$beng$cCtY-BR$edcrmmss
-=079  \\$a(OCoLC)1056170839
+=079  \\$a1056170839
 =100  1\$aElkinton, Howard W.$q(Howard West),$d1892-1955.$0http://id.loc.gov/authorities/names/no94010228
 =245  10$aReport on alien internee camps :$ktypescript.
 =264  \0$aTexas,$c1943.
@@ -15,7 +15,7 @@
 =338  \\$asheet$2rdacarrier
 =506  0\$aThis material is open for research.
 =545  \\$aHoward W. Elkinton (1892-1955) was an American Quaker who worked for the American Friends Service Committee to evaluate concentration camps for prisoners of war, refugees, and other detainees during World War II.  Representing the American Friends Service Committee, Elkinton was accompanied by representatives of the Young Men's Christian Association (YMCA) of the United States.
-=520  \\$aTyped report evaluating concentration camps for prisoners of war, refugees, and other detainees in Seagoville, Kenedy, and Crystal City, Texas in 1943.  Howard W. Elkinton visited three concentration camps housing German, Japanese, German-American, Japanese-American, Peruvian, Panamanian, and Nicaraguan detainees and refugees.  Elkinton describes the conditions of the three concentration camps, including housing, food, health care, religious practice, and entertainment.  Elkinton interviewed detainees and staff at each camp.  He describes the religious demographics of the camps and includes lists of detainees who needed special assistance and intervention.
+=520  \\$aTyped report evaluating concentration camps for prisoners of war, refugees, and other detainees in Seagoville, Kenedy, and Crystal City, Texas in 1943. Howard W. Elkinton visited three concentration camps housing German, Japanese, German-American, Japanese-American, Peruvian, Panamanian, and Nicaraguan detainees, incarcerees, and refugees. Elkinton describes the conditions of the three concentration camps, including housing, food, health care, religious practice, and entertainment. Elkinton interviewed incarcerees and detainees and staff at each camp. He describes the religious demographics of the camps and includes lists of detainees and incarcerees who needed special assistance and intervention.
 =561  \\$aPurchased from Bolerium Books on the Arthur Corbitt Hoskins Memorial Fund, 2011.
 =546  \\$aIn English.
 =500  \\$aTitle from caption.
@@ -44,4 +44,5 @@
 =651  \0$aSeagoville (Tex.)$0http://id.loc.gov/authorities/names/n2011056794
 =651  \0$aTexas$xPolitics and government$y1865-1950.$0http://id.loc.gov/authorities/subjects/sh85134280
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

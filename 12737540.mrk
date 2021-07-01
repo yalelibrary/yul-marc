@@ -1,18 +1,18 @@
-=LDR  02278cpcaa2200349 a 4500
+=LDR  02644cpcaa2200361 a 4500
 =001  12737540
-=005  20180530115052.0
+=005  20210701095011.0
 =008  160316i19211944ctu\\\\\\\\\\\\\\\\\eng\d
 =035  \\$a12737540
 =040  \\$aCtY-BR$beng$cCtY-BR$edacs
 =041  0\$aeng$ajpn
-=079  \\$a(OCoLC)1000590986
+=079  \\$a1000590986
 =100  1\$aOda, Tetsu,$d1892-
 =245  10$aTetsu Oda papers,$f1921-1944.
 =300  \\$a17$fitems.
 =351  \\$bArranged chronologically.
 =506  0\$aThis material is open for research.
-=545  \\$aTetsu Oda (1892-) lived in Walnut Creek, California when he was forced to relocate to the Tule Lake Relocation Center near Newell, California in 1943 during the internment of Japanese Americans in World War II.
-=520  \\$aPersonal, financial, and military papers relating to the citizenship of Tetsu Oda and his internment in the Tule Lake Relocation Center near Newell, California. The papers include Oda's alien registration receipt card, selective service registration card, tax receipts, change of residence forms, travel permits, and exclusion orders from the United States Army Western Defense Command.
+=545  \\$aTetsu Oda (1892-) lived in Walnut Creek, California when the United States government forcibly removed Oda to the Tule Lake Relocation Center, an American concentration camp near Newell, California in 1943 during the incarceration of Japanese Americans in World War II.
+=520  \\$aPersonal, financial, and military papers relating to Tetsu Oda's citizenship and his incarceration in the Tule Lake Relocation Center, an American concentration camp near Newell, California. The papers include Oda's alien registration receipt card, selective service registration card, tax receipts, change of residence forms, travel permits, and forced removal orders from the United States Army Western Defense Command.
 =561  \\$aGift of Greg Bock, 2015.
 =546  \\$aIn English and Japanese.
 =524  \\$aTetsu Oda Papers. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.
@@ -26,4 +26,5 @@
 =650  \0$aConcentration camps$zUnited States.$0http://id.loc.gov/authorities/subjects/sh85029609
 =655  \7$aMilitary records$zUnited States$y20th century.$2aat
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

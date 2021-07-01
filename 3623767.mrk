@@ -1,13 +1,13 @@
-=LDR  02949cpc a2200493 a 4500
+=LDR  03685cpc a2200517 a 4500
 =001  3623767
-=005  20181010173644.0
+=005  20210701094146.0
 =006  t\\\\\\\\\\\\\\\\\
 =008  940225i19421946ctu||\\\\\\\\\\|\|||eng\d
 =035  \\$9FJA7539YL
 =035  \\$a3623767
 =040  \\$aCtY-BR$cCtY-BR$eappm
 =043  \\$an-us-ca$an-us-az
-=079  \\$a(OCoLC)1056170368
+=079  \\$a1056170368
 =100  1\$aMillsap, Walter,$d1886-1971.
 =245  10$aWalter Millsap / Keikichi Akana Imamura family papers,$f1942-1946.
 =300  \\$a0.8$flinear ft. (2 boxes)
@@ -15,8 +15,9 @@
 =337  \\$aunspecified$2rdamedia
 =338  \\$aunspecified$2rdacarrier
 =545  \\$aWalter Millsap was from 1916 to 1919 an active member of the utopian Llano colony, a socialist community which moved from its original location in California to Louisiana in 1917. Millsap was trustee of United Co-Operative Industries and head of the Llano Co-Operative Association.
-=545  \\$aKeikichi Akana Imamura was a salesman for Millsap's United Co-Operative Industries before World War II and an adjunct professor in Oriental languages at Yale University in the fall of 1945.
-=520  \\$aCorrespondence, writings, and printed material collected by Walter Millsap. Chiefly correspondence between Millsap and the Imamura family during the Imamuras' internment at the Gila River Relocation Center. Millsap's letters to the Imamuras are represented by carbon copies. The letters discuss Japanese relocation and Millsap's United Co-Operative Industries, as well as his involvement in the Llano Colony, a socialist utopian community. Included are several typescripts of essays by Keikichi's wife, Toshiko Imamura, and some cartoons by their son, Keichi.
+=545  \\$aKeikichi Akana Imamura was a salesman for Millsap's United Co-Operative Industries before World War II and an adjunct professor in Oriental languages at Yale University in the fall of 1945. The Inamura family was incarcerated at the Gila River Relocation Center, an American concentration camp during World War II.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps.
+=520  \\$aCorrespondence, writings, and printed material collected by Walter Millsap. Chiefly correspondence between Millsap and the Imamura family during the Imamuras' incarceration at the Gila River Relocation Center. Millsap's letters to the Imamuras are represented by carbon copies. The letters discuss Japanese incarceration and Millsap's United Co-Operative Industries, as well as his involvement in the Llano Colony, a socialist utopian community. Included are several typescripts of essays by Keikichi's wife, Toshiko Imamura, and some cartoons by their son, Keichi.
 =555  0\$aAccompanied by a contents list in box 1.
 =561  \\$aGift of the William S. Reese Company, 1993.
 =524  \\$aWalter Millsap / Keikichi Akana Imamura Family Papers. Western Americana Collection, Beinecke Rare Book and Manuscript Library, Yale University.
@@ -38,4 +39,5 @@
 =856  41$3View a selection of digital images in the Beinecke Library's Digital Images Online database$uhttp://beinecke.library.yale.edu/dl_crosscollex/callnumSRCHXC.asp?WC=N&SS=N&CN=WA_MSS_S-1590
 =928  \\$aAC031197
 =948  \\$adjd/dms
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

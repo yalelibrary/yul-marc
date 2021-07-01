@@ -1,12 +1,12 @@
-=LDR  02955cpcaa2200493 i 4500
+=LDR  03851cpcaa2200553 i 4500
 =001  14976458
-=005  20200411173450.0
+=005  20210701095748.0
 =006  t\\\\\\\\\\\000\0\
 =008  200326s1943\\\\cau\\\\\\\\\\\\\\\\\eng\d
 =035  \\$a14976458
 =040  \\$aCtY-BR$beng$cCtY-BR$edcrmmss
 =043  \\$an-us-ca$an-us---
-=079  \\$a(OCoLC)1149941482
+=079  \\$a1149941482
 =100  1\$aMizumoto, Michiko.
 =240  10$aI am the mountain of Manzanar
 =245  10$aManzanar :$ktypescript /$cwritten by Mich Mizumoto.
@@ -16,8 +16,10 @@
 =337  \\$aunmediated$2rdamedia
 =338  \\$asheet$2rdacarrier
 =506  0\$aThis material is open for research.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps.
+=545  \\$aManzanar War Relocation Center, 1942-1945, was an American concentration camp in Inyo County, California, at the eastern edge of the Sierra Nevada mountains.
 =545  \\$aMichiko Mizumoto was incarcerated at Manzanar War Relocation Center where she was a student at Manzanar High School, circa 1943.
-=520  \\$aTypescript poem entitled "Manzanar" by Michiko Mizumoto, written from the point of view of the mountain near Manzanar, which witnesses the incarceration of Japanese Americans and promises justice.  The poem was published elsewhere under the title "I am the mountain of Manzanar."  There are several differences between this version and the published version, including the title.
+=520  \\$aTypescript poem entitled "Manzanar" by Michiko Mizumoto, written from the point of view of the mountain near Manzanar, which witnesses the incarceration of Japanese Americans and promises justice. The poem was published elsewhere under the title "I am the mountain of Manzanar." There are several differences between this version and the published version, including the title.
 =561  \\$aFrom the collection of Ralph Merritt. Purchased from Langdon Manor Books, LLC on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2020.
 =546  \\$aIn English.
 =500  \\$aManuscript annotation: Written by Mich. Mizumoto Age 16 Manzanar High
@@ -29,13 +31,16 @@
 =610  20$aManzanar High School (Manzanar, Calif.)$xStudents.
 =610  20$aManzanar War Relocation Center.$0http://id.loc.gov/authorities/names/n79056407
 =610  20$aYosemite Park and Curry Co.$0http://id.loc.gov/authorities/names/n88023060
+=650  \0$aConcentration camps$zCalifornia.
 =650  \0$aJapanese Americans$zCalifornia.
 =650  \0$aJapanese Americans$xEvacuation and relocation, 1942-1945.$0http://id.loc.gov/authorities/subjects/sh85069606
 =650  \0$aJapanese Americans$xEvacuation and relocation, 1942-1945$vPoetry.
 =650  \0$aJapanese Americans$vPoetry.
 =650  \0$aWorld War, 1942-1945$xConcentration camps$zUnited States.
+=650  \0$aWorld War, 1939-1945$xJapanese Americans$vCalifornia.
 =651  \0$aCalifornia$xSocial life and customs$y20th century.$0http://id.loc.gov/authorities/subjects/sh85018895
 =651  \0$aManzanar (Calif.)$0http://id.loc.gov/authorities/names/n79056408
 =692  14$aMerritt, Ralph Palmer,$d1883-1963$xOwnership.
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

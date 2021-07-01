@@ -1,17 +1,19 @@
-=LDR  02341cpcaa2200361 i 4500
+=LDR  03152cpcaa2200421 i 4500
 =001  14799813
-=005  20200201173952.0
+=005  20210701095723.0
 =008  200103i19451945ctu\\\\\\\\\\\\\\\\\eng\d
 =035  \\$a14799813
 =040  \\$aCtY-BR$beng$cCtY-BR$edacs
 =043  \\$an-us-az$an-us---
-=079  \\$a(OCoLC)1138141809
+=079  \\$a1138141809
 =100  1\$aKochi, Jay K.$0http://id.loc.gov/authorities/names/n81062665
 =245  10$aJay K. Kochi high school graduation papers,$f1945.
 =300  \\$a4$fitems
 =506  0\$aThis material is open for research.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps.
+=545  \\$aGila River Relocation Center, 1942-1945, was an American concentration camp near Phoenix, Arizona.
 =545  \\$aJay Kazuo Kochi (1927-2008) was a Japanese-American chemist who was incarcerated at Gila River Relocation Center in Rivers, Arizona with his family, 1942-1945. He attended Butte High School while incarcerated, serving as senior class president and graduating with a scholarship in 1945.
-=520  \\$aPapers concerning Jay Kochi's graduation from Butte High School at Gila River Relocation Center, 1945.  Includes an invitation to the commencement ceremony, 2 invitations to a graduation party, and a certificate for a scholarship Kochi received from the Butte Community Council.
+=520  \\$aPapers concerning Jay Kochi's graduation from Butte High School at Gila River Relocation Center, 1945. Includes an invitation to the commencement ceremony, 2 invitations to a graduation party, and a certificate for a scholarship Kochi received from the Butte Community Council.
 =561  \\$aGift of Adam Schachter, 2019.
 =546  \\$aIn English.
 =544  1\$dAssociated material:  Jay K. Kochi papers (WA MSS S-3903 K8119),$aBeinecke Rare Book and Manuscript Library.
@@ -19,6 +21,8 @@
 =600  10$aKochi, Jay K.$0http://id.loc.gov/authorities/names/n81062665
 =610  20$aButte Community Council (Rivers, Ariz.)
 =610  20$aButte High School (Rivers, Ariz.)$0http://id.loc.gov/authorities/names/no2014119937
+=610  20$aGila River Relocation Center.
+=650  \0$aConcentration camps$zArizona.
 =650  \0$aHigh school students$zArizona.
 =650  \0$aJapanese Americans$zArizona.
 =650  \0$aJapanese Americans$xEvacuation and relocation, 1942-1945.$0http://id.loc.gov/authorities/subjects/sh85069606
@@ -27,4 +31,5 @@
 =651  \0$aArizona$xSocial life and customs$y20th century.
 =651  \0$aRivers (Ariz.)$0http://id.loc.gov/authorities/names/n93032013
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

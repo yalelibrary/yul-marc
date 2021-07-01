@@ -1,13 +1,13 @@
-=LDR  02408cas a2200517 i 4500
+=LDR  02748cas a2200529 i 4500
 =001  14792884
-=005  20191220173510.0
+=005  20210701101203.0
 =008  171018d19431944aruar\\\\\\\\\0\\\a0eng\c
 =035  \\$a(OCoLC)on1006653188
 =035  \\$a14792884
 =040  \\$aCLU$beng$erda$edcrmb$cCLU$dCLU$dOCLCF
 =043  \\$an-us-ar
 =045  2\$bd1943$bd1944
-=079  \\$a(OCoLC)1006653188
+=079  \\$a1006653188
 =090  \\$aLD7501.D43$bV6
 =130  0\$aVictoria (Denson, Ark.)
 =245  10$aVictoria /$cpresented by The Students of Denson High School.
@@ -23,7 +23,7 @@
 =590  \\$aZc24 +V66: Accompanied by four original photographs: 1944.
 =588  \\$aDescription based on: 1943; title from title page.
 =588  \\$aLatest issue consulted: 1944.
-=550  \\$aYearbook of Denson High School, located at the Jerome War Relocation Center in Denson, Arkansan, in operation between Oct. 1942 and June 1944.
+=550  \\$aYearbook of Denson High School, located at the Jerome War Relocation Center, an American concentration camp operated by the War Relocation Authority in Denson, Arkansas between October 1942 and June 1944.
 =500  \\$aIncludes junior high school students.
 =500  \\$aThe 1943 Victoria, Denson High School's first annual, contains a color reproduction of a painting by Henry Y. Sugimoto, one of the most distinguished Japanese artists in the United States.
 =610  20$aDenson High School (Denson, Ark.)$xStudents$vPeriodicals.
@@ -40,4 +40,5 @@
 =655  \7$aAnnotations (Provenance)$y20th century.$2rbprov$5CtY-BR
 =710  2\$aStudents of Denson High School (Denson, Ark.),$epublisher.
 =752  \\$aUnited States$bArkansas$dDenson.
+=954  \\$aThis catalog record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book & Manuscript Library.$d2021-07-01$7repdesc
 

@@ -1,11 +1,11 @@
-=LDR  02165cpcaa2200385 i 4500
+=LDR  03044cpcaa2200421 i 4500
 =001  14495578
-=005  20190904173308.0
+=005  20210701095403.0
 =006  t\\\\\\\\\\\000\0\
 =008  190716s1945\\\\cau\\\\\\\\\\\\\\\\\eng\d
 =035  \\$a14495578
 =040  \\$aCtY-BR$beng$cCtY-BR$edcrmmss
-=079  \\$a(OCoLC)1117285705
+=079  \\$a1117285705
 =099  \9$aFormer call number: Uncat WA MS File
 =100  1\$aEnochs, Hugh.
 =245  10$aStatistics on evacuees removed from Northern California from files on Wartime Civil Control Administration :$bReport on Japanese-Americans relocated in northern California from Western Relocation Division of WRA :$ktypescript.
@@ -14,10 +14,12 @@
 =336  \\$atext$2rdacontent
 =337  \\$aunmediated$2rdamedia
 =338  \\$asheet$2rdacarrier
+=500  \\$aThis catalog record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.
 =506  0\$aThis material is open for research.
 =545  \\$aHugh Enochs was a newspaper editor in San Francisco, California, circa 1949.
 =520  \\$aTypescript statistics, unsigned, sent from Hugh Enochs to journalist Pat Frayne recording the number of Japanese-American individuals removed from northern California, 1945 February 20.
 =561  \\$aPurchased from Bookstall on the Thomas W. Streeter Fund, 1991.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps.
 =546  \\$aIn English.
 =500  \\$aTitle from first page.
 =524  \\$aHugh Enochs, Statistics on Evacuees Removed from Northern California from Files on Wartime Civil Control Administration, Report on Japanese-Americans Relocated in Northern California from Western Relocation Division of WRA. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.
@@ -29,4 +31,5 @@
 =650  \0$aWorld War, 1939-1945$xJapanese Americans.$0http://id.loc.gov/authorities/subjects/sh85148427
 =651  \0$aCalifornia$vStatistics.
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
+=954  \\$aThis catalog record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

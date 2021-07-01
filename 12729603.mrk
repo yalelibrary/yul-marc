@@ -1,19 +1,19 @@
-=LDR  02931cpcaa2200385 a 4500
+=LDR  03260cpcaa2200397 a 4500
 =001  12729603
-=005  20180530115106.0
+=005  20210701094947.0
 =006  knnn\\\\\\\\\\\\kn
 =008  160311i19381945ctu\\\\\\\\\\\\\\\\\eng\d
 =035  \\$a12729603
 =040  \\$aCtY-BR$beng$cCtY-BR$edacs
 =041  0\$aeng$ajpn
-=079  \\$a(OCoLC)1000602209
+=079  \\$a1000602209
 =100  1\$aMatsuo, Kennosuke.
 =245  10$aKennosuke Matsuo papers,$f1938-1945.
 =300  \\$a0.21$flinear feet (1 box)
 =351  \\$bArranged chronologically.
 =506  0\$aThis material is open for research.
-=545  \\$aKennosuke Matsuo was a banker in Los Angeles, California when he was forced to relocate to the Granada Relocation Center, near Granada, Colorado during the internment of Japanese Americans in World War II. During internment at Granada, circa 1942-1944, Matsuo worked in the relocation center's budget and finance department.
-=520  \\$aCorrespondence, legal papers, and employment applications created by or concerning Kennosuke Matsuo's internment in the Granada Relocation Center near Granada, Colorado. The correspondence includes letters written by colleagues and officers at the relocation center attesting to Matsuo's character, Christian religion, and employment history, 1938-1944. The legal papers include Matsuo's travel papers, documentation concerning his indefinite leave from Granada, and a California Department of Employment report on Matsuo's employment eligibility. The employment applications document Matsuo's efforts to find employment as a banker after leaving the relocation center. Also includes one photograph of an unidentified man, possibly Matsuo.
+=545  \\$aKennosuke Matsuo was a banker in Los Angeles, California when the United States government forcibly removed him to the Granada Relocation Center, an American concentration camp near Granada, Colorado during the incarceration of Japanese Americans in World War II. During incarceration at Granada, circa 1942-1944, Matsuo worked in the camp's budget and finance department.
+=520  \\$aCorrespondence, legal papers, and employment applications created by or concerning Kennosuke Matsuo's incarceration in the Granada Relocation Center, an American concentration camp near Granada, Colorado. The correspondence includes letters written by colleagues and officers at the camp attesting to Matsuo's character, Christian religion, and employment history, 1938-1944. The legal papers include Matsuo's travel papers, documentation concerning his indefinite leave from Granada, and a California Department of Employment report on Matsuo's employment eligibility. The employment applications document Matsuo's efforts to find employment as a banker after leaving the camp. Also includes one photograph of an unidentified man, possibly Matsuo.
 =561  \\$aGift of Ross W. Beales, Jr., 2015.
 =546  \\$aIn English and Japanese.
 =524  \\$aKennosuke Matsuo Papers. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.
@@ -29,4 +29,5 @@
 =655  \7$aMilitary records$zUnited States$y20th century.$2aat
 =656  \7$aBankers$zUnited States$y20th century.$2lcsh
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

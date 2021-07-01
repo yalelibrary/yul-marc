@@ -1,18 +1,18 @@
-=LDR  02769cpcaa2200397 a 4500
+=LDR  03069cpcaa2200409 a 4500
 =001  12597464
-=005  20180530112658.0
+=005  20210701094812.0
 =006  knnn\\\\\\\\\\\\kn
 =008  151020i19421945ctu\\\\\\\\\\\\\\\\\eng\d
 =035  \\$a12597464
 =040  \\$aCtY-BR$beng$cCtY-BR$edacs
 =041  0\$aeng$ajpn
-=079  \\$a(OCoLC)1000591671
+=079  \\$a1000591671
 =100  3\$aKatano (Family)
 =245  10$aKatano family papers,$f1942-1945.
 =300  \\$a0.21$flinear feet (1 box) + 1 broadside.
 =506  0\$aThis material is open for research.
-=545  \\$aThe Katano family, including Tameko (Dorothy) Katano, lived in Los Angeles, California when they were forced to relocate to the Manzanar War Relocation Center during the internment of Japanese Americans in World War II, circa 1942-1945.
-=520  \\$aCorrespondence, personal papers, printed material, and photographs relating to the internment of the Katano family in the Manzanar War Relocation Center in Manzanar, California. The bulk of the papers concern the activities of Tameko (Dorothy) Katano, her forced transition from Belmont High School in Los Angeles to the internment camp, and her continuing correspondence with Los Angeles friends and schoolmates.
+=545  \\$aThe Katano family, including Tameko (Dorothy) Katano, lived in Los Angeles, California when the United States government forcibly removed them to the Manzanar War Relocation Center during the incarceration of Japanese Americans in World War II, circa 1942-1945.
+=520  \\$aCorrespondence, personal papers, printed material, and photographs relating to the incarceration of the Katano family in the Manzanar War Relocation Center in Manzanar, California. The bulk of the papers concern the activities of Tameko (Dorothy) Katano, her forced transition from Belmont High School in Los Angeles to the internment camp, and her continuing correspondence with Los Angeles friends and schoolmates.
 =520  \\$aBox 1 contains the bulk of the papers. 2 (Broadside) contains a panoramic photograph of the Manzanar War Relocation Center.
 =561  \\$aPurchased from Vigilante Rare Documents on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2014.
 =546  \\$aIn English and Japanese.
@@ -30,4 +30,5 @@
 =655  \7$aPhotographic prints.$2aat$0http://vocab.getty.edu/aat/300127104
 =655  \7$aMilitary records$zUnited States$y20th century.$2aat
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

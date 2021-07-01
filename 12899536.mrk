@@ -1,6 +1,6 @@
-=LDR  04479cpcaa2200685 i 4500
+=LDR  04911cpcaa2200697 i 4500
 =001  12899536
-=005  20200811230121.0
+=005  20210701095111.0
 =006  knnn\\\\\\\\\\\\kn
 =006  cmua\\\\\\\\\\\\\\
 =006  knnn\\\\\\\\\\\\an
@@ -10,14 +10,14 @@
 =040  \\$aCtY-BR$beng$cCtY-BR$edacs
 =041  0\$aeng$ajpn
 =043  \\$an-us-ut$an-us---
-=079  \\$a(OCoLC)1128262748
+=079  \\$a1128262748
 =100  1\$aTakita, Miyeko,$d1924-$0http://id.loc.gov/authorities/names/no2020068489
 =245  10$aAiko Takita and Miyeko Takita papers,$fcirca 1928-1946.
 =300  \\$a2.71$flinear feet (4 boxes)
 =351  \\$bArranged alphabetically by format.
 =506  0\$aThis material is open for research.
-=545  \\$aMiyeko Takita (1924- ), a Japanese-American woman, was sent with her mother, Aoyagi Takita, and sister, Aiko Takita (1926- ), to the Tanforan Assembly Center, a temporary detention camp in San Bruno, California, in the spring of 1942, and to the Topaz War Relocation Center in Millard County, Utah, in 1942 October. The Takita sisters were released from the Topaz internment camp, where they were involved in school, music, and the Protestant church, in 1945 October. In 1949, Miyeko Takita was a United States government employee, working as a special services librarian in Munich, Germany.
-=520  \\$aMaterials relating to Aiko Takita and Miyeko Takita's internment at the Tanforan Assembly Center at San Bruno, California, and Topaz War Relocation Center in Millard County, Utah, 1942-1945. Included are correspondence in both English and Japanese, Topaz High School class materials, Topaz Music School and Protestant church programs, 2 autograph books with notes and signatures, and 3 drawings. There are also printed internment camp pamphlets and newsletters, 1942-1949; 15 photographs of the Takita family (some with Japanese manuscript captions), circa 1928-1946; and printed sheet music, undated. 2 additional autograph books are from 1935 and 1939.
+=545  \\$aMiyeko Takita (1924- ), a Japanese-American woman, was forcibly removed by the United States government, along with her mother, Aoyagi Takita, and sister, Aiko Takita (1926- ), to the Tanforan Assembly Center, a temporary detention center in San Bruno, California, in the spring of 1942, and to the Topaz War Relocation Center, an American concentration camp in Millard County, Utah, in 1942 October. The Takita sisters were released from the Topaz concentration camp, where they were involved in school, music, and the Protestant church, in 1945 October. In 1949, Miyeko Takita was a United States government employee, working as a special services librarian in Munich, Germany.
+=520  \\$aMaterials relating to Aiko Takita and Miyeko Takita's incarceration at the Tanforan Assembly Center, a temporary detention center at San Bruno, California, and the Topaz War Relocation Center, an American concentration camp in Millard County, Utah, 1942-1945. Included are correspondence in both English and Japanese, Topaz High School class materials, Topaz Music School and Protestant church programs, 2 autograph books with notes and signatures, and 3 drawings. There are also printed incarceration camp pamphlets and newsletters, 1942-1949; 15 photographs of the Takita family (some with Japanese manuscript captions), circa 1928-1946; and printed sheet music, undated. 2 additional autograph books are from 1935 and 1939.
 =561  \\$aPurchased from Vigilante Rare Documents on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2015.
 =546  \\$aIn English and Japanese.
 =524  \\$aAiko Takita and Miyeko Takita Papers. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.
@@ -54,4 +54,5 @@
 =700  1\$aTakita, Aiko,$d1926-$0http://id.loc.gov/authorities/names/no2020068525
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
 =856  42$3View a description and listing of collection contents in the finding aid$uhttp://hdl.handle.net/10079/fa/beinecke.takitapapers
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

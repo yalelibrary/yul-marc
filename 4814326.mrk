@@ -1,15 +1,16 @@
-=LDR  00868cam a2200265 a 4500
+=LDR  01547cam a2200289 a 4500
 =001  4814326
-=005  20110321195450.0
+=005  20210701101339.0
 =008  010907s1942\\\\dcu\\\\\\\\\\f000\0\eng\d
 =035  \\$a(OCoLC)ocn686113005
 =035  \\$9FPB5044YL
 =035  \\$a4814326
 =040  \\$aCtY-BR$cCtY-BR
-=079  \\$aocm32265284
+=079  \\$a32265284
 =245  02$aA chronology of evacuation and relocation.
 =260  \\$a[Washington, D.C.? :$bU.S. War Relocation Authority?,$c1942?]
 =300  \\$a6 p. ;$c27 cm.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps.
 =500  \\$aCaption title.
 =500  \\$aAt foot of every page: 6-1879-BU-COS-WP.
 =610  10$aUnited States.$bWar Relocation Authority.
@@ -19,4 +20,5 @@
 =927  \\$a20010917RO
 =928  \\$aAC04082002
 =948  \\$atef
+=954  \\$aThis catalog record contains original descriptive language for materials that may contain outdated or harmful language. The use of this description is not an endorsement of the language it contains. Original descriptive language has been retained to promote searchability and discoverability of the collections.$d2021-07-01$7repdesc
 

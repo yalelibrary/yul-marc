@@ -1,12 +1,12 @@
-=LDR  03127ckm a2200553 i 4500
+=LDR  03728ckm a2200577 i 4500
 =001  14792988
-=005  20200801173527.0
+=005  20210701100306.0
 =007  kv\bo\
 =008  191217q19431945caunnn\\\\\\\\\\\\kneng\d
 =035  \\$a14792988
 =040  \\$aCtY-BR$beng$cCtY-BR$edcrmg$erda
 =043  \\$an-us-ca$an-us---
-=079  \\$a(OCoLC)1179918236
+=079  \\$a1179918236
 =110  2\$aManzanar Cooperative Enterprises, Inc.,$epublisher.
 =245  10$aWar relocation center Manzanar California.
 =264  \0$aManzanar, California :$bManzanar Cooperative Enterprises, Inc.,$c[circa 1943-1945]
@@ -16,7 +16,7 @@
 =338  \\$asheet$2rdacarrier
 =506  0\$aThis material is open for research.
 =506  1\$aIn-process material. Research use may require advance notice. For further information, consult Access Services.
-=545  \\$aManzanar Cooperative Enterprises, Inc. was owned and managed by Japanese-American internees at the Manzanar War Relocation Center per an agreement with the War Relocation Authority in 1943 March.
+=545  \\$aManzanar Cooperative Enterprises, Inc. was owned and managed by Japanese-American incarcerees at the Manzanar War Relocation Center per an agreement with the War Relocation Authority in 1943 March.
 =520  \\$aPanoramic photograph published by Manzanar Cooperative Enterprises, Inc. of the Manzanar War Relocation Center, circa 1943-1945. Taken from the fence line of the concentration camp, the image depicts rows of buildings and telephone poles. The Sierra Nevada mountain range is in the background.
 =561  \\$aPurchased from William Reese Co. on the Frederick W. and Carrie S. Beinecke Fund for Western Americana, 2018.
 =546  \\$aCaption in English.
@@ -24,7 +24,8 @@
 =500  \\$aTitle from caption.
 =500  \\$aPlace of creation from caption.
 =500  \\$aDate of creation supplied by cataloger.
-=524  \\$aManzanar Cooperative Enterprises, Inc., War Relocation Center Manzanar California. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.
+=524  \\$aManzanar War Relocation Center, 1942-1945, was an American concentration camp in Inyo County, California, at the eastern edge of the Sierra Nevada mountains.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps.
 =610  20$aManzanar Cooperative Enterprises, Inc.
 =610  20$aManzanar War Relocation Center$vPictorial works.
 =650  \0$aConcentration camps$zCalifornia$vPictorial works.
@@ -43,4 +44,5 @@
 =655  \7$aPhotographic prints.$2aat
 =655  \7$aPhotographs.$2aat
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

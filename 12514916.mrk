@@ -1,12 +1,12 @@
-=LDR  03546ckc a2200409 i 4500
+=LDR  04198ckc a2200433 i 4500
 =001  12514916
-=005  20191206094853.0
+=005  20210701094713.0
 =007  kd\co\
 =008  150727i19431943utunnn\\\\\\\\\\\\anzxx\d
 =035  \\$a(OCoLC)ocn920459753
 =035  \\$a12514916
 =040  \\$aCtY-BR$beng$cCtY-BR$edcrmg$erda
-=079  \\$a(OCoLC)920454641
+=079  \\$a920454641
 =100  1\$aMikami, Charles Erabu,$d1902-1998,$eartist.
 =245  10$a[Drawings of scenes of the Central Utah Relocation Center].
 =264  \0$a[Utah],$c[circa 1943]
@@ -15,8 +15,9 @@
 =337  \\$aunmediated$2rdamedia
 =338  \\$asheet$2rdacarrier
 =506  0\$aThis material is open for research.
-=545  \\$aCharles Erabu "Suiko" Mikami was born in Hiroshima, Japan, on January 30, 1902. He studied sumi-e brush painting before immigrating to the Seattle, Washington, in 1919, where he worked as a produce broker while continuing to paint and write poetry in his free time. At the beginning of World War I, Mikami was arrested and interned with his wife and children at the Tule Lake Internment Center in California; they were later transferred to the Central Utah Relocation Center near Topaz Mountain and Delta, Utah, where he became involved with the Topaz Art School. After the war, Mikami settled in Morgan Hill, California, and became a strawberry farmer. In 1977, the Japanese Government awarded him the Order of Sacred Treasure, 5th Class for his civic service and for his contribution to United States-Japan friendship and cultural exchange. Mikami died on September 16, 1998.
-=520  \\$aTwo watercolor drawings made in and around the Central Utah Relocation Center near Delta, Utah. The first is an untitled landscape view of the Topaz Valley, the site of the Center; it measures 28 x 39 cm and is signed at the lower left corner "S. Mikami." The second is a scene within the camp and features residential cabins, pathways, and unidentified figures at either sunrise or sunset. It is signed at the lower right with Japanese characters that represent "Suiko" and a red chop mark, measures 27 x 38 cm, and is inscribed in pencil on the reverse in an unidentified hand: "Delta, Utah / Japanese / Relocation / Camp / 19."
+=545  \\$aCharles Erabu "Suiko" Mikami was born in Hiroshima, Japan, on January 30, 1902. He studied sumi-e brush painting before immigrating to the Seattle, Washington, in 1919, where he worked as a produce broker while continuing to paint and write poetry in his free time. At the beginning of World War II, the United States government incarcerated Mikami with his wife and children at the Tule Lake Internment Center in California; they were later transferred to the Central Utah Relocation Center near Topaz Mountain and Delta, Utah, where he became involved with the Topaz Art School. After the war, Mikami settled in Morgan Hill, California, and became a strawberry farmer. In 1977, the Japanese Government awarded him the Order of Sacred Treasure, 5th Class for his civic service and for his contribution to United States-Japan friendship and cultural exchange. Mikami died on September 16, 1998.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps.
+=520  \\$aTwo watercolor drawings made in and around the Central Utah Relocation Center, an American concentration camp near Delta, Utah. The first is an untitled landscape view of the Topaz Valley, the site of the camp; it measures 28 x 39 cm and is signed at the lower left corner "S. Mikami." The second is a scene within the camp and features residential cabins, pathways, and unidentified figures at either sunrise or sunset. It is signed at the lower right with Japanese characters that represent "Suiko" and a red chop mark, measures 27 x 38 cm, and is inscribed in pencil on the reverse in an unidentified hand: "Delta, Utah / Japanese / Relocation / Camp / 19."
 =561  \\$aPurchased from William Reese Company (PBA Galleries sale, San Francisco, 2013 July 11, lot 253) on the Arthur Corbitt Hoskins Memorial Fund, 2013.
 =500  \\$aTitle devised by cataloger.
 =524  \\$aCharles Erabu Mikami, Drawings of Scenes of the Central Utah Relocation Center. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.
@@ -31,4 +32,5 @@
 =656  \7$aArtists$zUnited States$y20th century.$2lcsh
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
 =856  41$3View a digital version in the Beinecke Library's Digital Images Online database$uhttp://beinecke.library.yale.edu/dl_crosscollex/brbldl_getrec.asp?fld=img&id=15235874
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

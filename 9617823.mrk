@@ -1,16 +1,17 @@
-=LDR  03113cpcaa2200385 a 4500
+=LDR  03900cpcaa2200409 a 4500
 =001  9617823
-=005  20180802141245.0
+=005  20210701094452.0
 =008  101217i19421945ctu\\\\\\\\\\\\\\\\\eng\d
 =035  \\$a9617823
 =040  \\$aCtY-BR$beng$cCtY-BR$edacs
 =041  0\$aeng$ajpn
 =043  \\$an-us-az
-=079  \\$a(OCoLC)1007242539
+=079  \\$a1007242539
 =245  00$aRecords related to the community government at the Poston Relocation Center, Arizona,$f1942-1945.
 =300  \\$a0.42$flinear feet (1 box) + 1 broadside folder.
-=545  \\$aThe Poston Relocation Center in Arizona was the largest of the ten Japanese American internment camps operated by the United States War Relocation Authority during World War II, 1942-1945.
-=520  \\$aRecords related to a community government formed by Japanese American internees at the Poston Relocation Center, Arizona, 1942-1945. Material includes reports from committees on health care, social welfare, and education, as well as a charter for the community government.  The collection also includes memoranda about camp governance and other publications in English and Japanese distributed by the United States War Relocation Authority, as well as contemporary newspaper clippings about relocation centers and Japanese Americans.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps. Poston Relocation Center in Arizona was the largest of the ten American concentration camps operated by the United States War Relocation Authority during World War II, 1942-1945.
+=545  \\$aPoston Relocation Center in Arizona was the largest of the ten American concentration camps operated by the United States War Relocation Authority during World War II, 1942-1945.
+=520  \\$aRecords related to a community government formed by Japanese Americans incarcerated at the Poston Relocation Center, Arizona, 1942-1945. Material includes reports from committees on health care, social welfare, and education, as well as a charter for the community government. The collection also includes memoranda about camp governance and other publications in English and Japanese distributed by the United States War Relocation Authority, as well as contemporary newspaper clippings about American concentration camps and Japanese Americans.
 =561  \\$aPurchased from William Reese Co. on the William Robertson Coe Fund No. 3, 2010.
 =546  \\$aChiefly in English; some items in Japanese.
 =524  \\$aRecords Related to the Community Government at the Poston Relocation Center, Arizona. Yale Collection of Western Americana, Beinecke Rare Book and Manuscript Library.
@@ -29,4 +30,5 @@
 =710  1\$aUnited States.$bWar Relocation Authority.$0http://id.loc.gov/authorities/names/n50068996
 =852  \\$aBeinecke Rare Book and Manuscript Library, Yale University, New Haven, CT
 =856  41$3View a selection of digital images in the Beinecke Library's Digital Images Online database$uhttp://beinecke.library.yale.edu/dl_crosscollex/callnumSRCHXC.asp?WC=N&SS=N&CN=WA_MSS_S-2650
+=954  \\$aThis record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book and Manuscript Library.$d2021-07-01$7repdesc
 

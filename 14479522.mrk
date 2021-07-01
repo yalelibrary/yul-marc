@@ -1,6 +1,6 @@
-=LDR  04910cam a2200553 i 4500
+=LDR  05514cam a2200577 i 4500
 =001  14479522
-=005  20190710173248.0
+=005  20210701100936.0
 =008  951002s1943\\\\iduabc\\\\\\\\000\0\eng\d
 =010  \\$a   96233393 
 =016  7\$a018370249$2Uk
@@ -9,7 +9,7 @@
 =040  \\$aUKMGB$beng$erda$cUKMGB$dOCLCO$dOCLCF
 =041  0\$aeng$bjpn
 =043  \\$an-us-id
-=079  \\$a(OCoLC)1079330650
+=079  \\$a1079330650
 =082  00$a940.53/161/0973$221
 =245  00$aMinidoka interlude :$bSeptember, 1942-October, 1943 /$c[edited by Tom Takeuchi].
 =264  \1$aHunt, Idaho :$bResidents of Minidoka Relocation Center,$c[1943?]
@@ -18,7 +18,8 @@
 =337  \\$aunmediated$2rdamedia
 =338  \\$avolume$2rdacarrier
 =590  \\$aBEIN Zc45 943mi: Accompanied by reprint of camp barracks photo and newspaper clipping of photo of winter morning at the center.
-=500  \\$aIllustrted lining paper.
+=500  \\$aThis catalog record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book & Manuscript Library.
+=500  \\$aIllustrated lining paper.
 =500  \\$aWith a foreword signed by "Tom Takeuchi"--Page [5].
 =500  \\$a"May we dedicate this book to 'the land of the free and the home of the brave', where the Star-Spangled banner shall wave in triumph ; to a truly free and democratic America, where men shall be judged by their actions, not by their actions, color or creed ; to our homeland and the homeland of our children, the United States of America"--"Dedication", title page verso.
 =500  \\$a"The Minidoka War Relocation Center in Jerome County, Idaho covered 33,000 acres with five miles of barbed wire fencing and eight watchtowers. Internees from Oregon, Washington and Alaska began arriving at Minidoka on August 10, 1942 and families of up to 9 squeezed into one room apartments furnished only with army cots and a stove, so they fashioned furniture out of scrap material"--Information from vendor.
@@ -34,7 +35,7 @@
 =611  27$aWorld War (1939-1945)$2fast$0(OCoLC)fst01180924
 =650  \0$aWorld War, 1939-1945$xEvacuation of civilians$zIdaho.
 =650  \0$aJapanese Americans$xEvacuation and relocation, 1942-1945.$0http://id.loc.gov/authorities/subjects/sh85069606
-=650  \0$aConcentration camps$zUnited States.$0http://id.loc.gov/authorities/subjects/sh85029609
+=650  \0$aInternment camps$zUnited States.$0http://id.loc.gov/authorities/subjects/sh85029609
 =650  \7$aConcentration camps.$2fast$0(OCoLC)fst00872933
 =650  \7$aJapanese Americans.$2fast$0(OCoLC)fst00981441
 =651  \7$aIdaho.$2fast$0(OCoLC)fst01211709
@@ -43,4 +44,5 @@
 =700  1\$aTakeuchi, Thomas,$d-1990,$eeditor.$0http://id.loc.gov/authorities/names/nr95036448
 =710  2\$aMinidoka Relocation Center,$eissuing body,$epublisher.$0http://id.loc.gov/authorities/names/n82008754
 =776  08$iOnline version:$tMinidoka interlude.$w(OCoLC)604823328$dHunt, Idaho : Residents of Minidoka Relocation Center, [1989]
+=954  \\$aThis catalog record contains original descriptive language for materials that may contain outdated or harmful language. The use of this description is not an endorsement of the language it contains. Original descriptive language has been retained to promote searchability and discoverability of the collections.$d2021-07-01$7repdesc
 

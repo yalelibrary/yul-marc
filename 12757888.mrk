@@ -1,6 +1,6 @@
-=LDR  01859cas a22004094  4500
+=LDR  02145cas a22004214  4500
 =001  12757888
-=005  20190708155711.0
+=005  20210701100811.0
 =008  780525c19429999couar\\\\\\\\\0\\\\0eng\d
 =035  \\$a(OCoLC)ocn896599078
 =035  \\$a12757888
@@ -8,7 +8,7 @@
 =043  \\$an-us-co$aa-ja---
 =045  \\$ax4x4
 =050  14$aE184.J3$bO6
-=079  \\$aocn896599078
+=079  \\$a896599078
 =245  00$aOnlooker.
 =260  \\$a[Amache, Colo.] :$bStudents of Amache High School.
 =300  \\$avolumes :$billustrations, portraits ;$c29 cm
@@ -16,8 +16,8 @@
 =337  \\$aunmediated$bn$2rdamedia
 =338  \\$avolume$bnc$2rdacarrier
 =590  \\$aBEIN Zc49 +On5 1944: Spiral-bound. Ownership inscriptions of Chiyo Kanagaki. Numerous autographs and annotations from other students, teachers and aministrators.
-=590  \\$aBEIN Zc49 +On5 1945: Ownership inscription: Property of Kobuko Masato. Numerous autographs and annotations from other students, teachers and aministrators. Accompanied by sheet o manuscript notes.
-=500  \\$aHigh school year book of relocated Japanese-American students.
+=590  \\$aBEIN Zc49 +On5 1945: Ownership inscription: Property of Kobuko Masato. Numerous autographs and annotations from other students, teachers and aministrators. Accompanied by sheet of manuscript notes.
+=500  \\$aHigh school year book of incarcerated Japanese-American students.
 =650  \0$aJapanese Americans$xEvacuation and relocation, 1942-1945$vPeriodicals.
 =610  20$aGranada Relocation Center.
 =610  20$aAmache High School (Amache, Colo.)
@@ -31,4 +31,5 @@
 =692  14$aMasato, Kobuko$xAutograph.
 =710  2\$aAmache High School  (Amache, Colo.)
 =752  \\$aUnited States$bColorado$dAmache.
+=954  \\$aThis catalog record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact the Beinecke Rare Book & Manuscript Library.$d2021-07-01$7repdesc
 

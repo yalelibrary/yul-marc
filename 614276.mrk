@@ -1,6 +1,6 @@
-=LDR  02553cpc a2200373za 4500
+=LDR  04168cpc a2200397za 4500
 =001  614276
-=005  20190423152638.0
+=005  20210701100418.0
 =008  840726i19421945ctu\\\\\\\\\\\\\\\\\eng\d
 =035  \\$9(YUL)ead.mssa.ms.0803
 =035  \\$9ACP7508YL
@@ -8,7 +8,7 @@
 =035  \\$a(OCoLC)ocn702240792
 =035  \\$a614276
 =040  \\$aCtY$beng$cCtY$eappm
-=079  \\$aocn702168113
+=079  \\$a702168113
 =090  \\$bMS 803
 =110  1\$aUnited States.$bWar Relocation Authority.$0http://id.loc.gov/authorities/names/n50068996
 =245  10$aUnited States War Relocation Authority. :$bPoston, Arizona Relocation Center collection,$f1942-1945 (inclusive).
@@ -16,7 +16,8 @@
 =506  \\$aThe collection is open for research.
 =506  1\$aBox 4, Poston High School Junior Red Cross Out of the Desert scrapbook, is available via digital surrogate and restricted due to fragility. Patrons must use the digital surrogate instead of the original scrapbook.
 =540  \\$aCopyright status for collection materials is unknown. Additional information is provided in the finding aid.
-=520  \\$aScrapbooks, record books, and memorabilia chiefly relating to the educational and library activities at the Relocation Center. Nine scrapbooks made and bound by the students document topics of academic study, student memoirs describing their feelings on being relocated, and Americanization agendas in school curriculum. A printed yearbook is also included.
+=545  \\$aThe United States declared war on Japan in 1941 following an attack by Japan on the United States naval base at Pearl Harbor, Hawaii. Under authority granted by Executive Order 9066, issued in February 1942, the federal government incarcerated over 120,000 people of Japanese descent in American concentration camps. Poston Relocation Center was a War Relocation Authority (WRA) American concentration camp located in Yuma County (now La Paz County) in southwestern Arizona. The camp was established in 1942, and was the largest geographically of the ten American concentration camps operated by the WRA. Poston was built on the Colorado River Indian Reservation, despite the objections of the Tribal Council. Many of the incarcarees placed at Poston were sent directly there, as opposed to being filtered through a temporary detention center first. Poston's incarcarees came largely from farming areas in Central and Southern California, with a combined peak population of 17,000 people. Incarcarees carried out most of the labor required to keep the camp running, including growing a wide variety of crops in addition to raising chickens and hogs. Japanese American workers were instrumental in making the area more livable by clearing, preparing, and irrigating the land. The camp was closed in 1945 following the end of World War II.
+=520  \\$aScrapbooks, record books, and memorabilia chiefly relating to the educational and library activities at the Poston Relocation Center, an American concentration camp. Nine scrapbooks made and bound by the students cover topics of academic study as well as their memoirs documenting their accounts of being incarcerated. A printed yearbook is also included.
 =524  \\$aUnited States War Relocation Authority Collection (MS 803).  Manuscripts and Archives, Yale University Library.
 =555  \\$aFinding aid is available in the repository and on the Internet.
 =561  \\$aGift of Nathan Van Patten, 1974.
@@ -28,4 +29,5 @@
 =650  \0$aWorld War, 1939-1945$zUnited States.$0http://id.loc.gov/authorities/subjects/sh2010118158
 =852  \\$aManuscripts and Archives$bYale University Library$eBox 208240, New Haven, CT 06520-8240.
 =856  42$3View a description and listing of collection contents in the finding aid$uhttp://hdl.handle.net/10079/fa/mssa.ms.0803
+=954  \\$aThis catalog record was edited in 2021 as part of ongoing revision of outdated or harmful language in cataloging. Previous versions of this catalog record may be available. For more information, contact Manuscripts and Archives.$d2021-05-26$7repdesc
 
