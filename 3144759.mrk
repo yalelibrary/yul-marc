@@ -1,6 +1,6 @@
-=LDR  05384cpcaa2200781 a 4500
+=LDR  06004cpcaa2200793 a 4500
 =001  3144759
-=005  20190423152319.0
+=005  20230905142021.0
 =006  e\\\\\\\a\\\\\0\\\
 =006  knnn\\\\\\\\\\\\kn
 =008  910215i18621972ctu\\\\\\\\\\\\\\\\\eng\d
@@ -17,9 +17,9 @@
 =351  \\$aOrganized into seven series: I. General Correspondence and Official Papers, 1867-1924. II. Family Correspondence, 1862-1956. III. Addresses, Diaries, Writings, and Notes, 1862-1953. IV. Photographs and Drawings, 1875-1904. V. Clippings and Miscellaneous Publications, 1874-1953. VI. Special Files, 1878-1963. VII. December 1976 Acquisition, 1871-1972.
 =506  0\$aThis material is open for research.
 =506  1\$3Boxes 34, 42, and 43:$aRestricted fragile material. Reference surrogates have been substituted in the main files. For further information consult the appropriate curator.
-=545  \\$aRichard Henry Pratt (1840-1924), American soldier and Native American educator.
+=545  \\$aRichard Henry Pratt, soldier and founder of the Carlisle Indian Industrial School, one of the first Native American boarding schools in the United States.
 =546  \\$aIn English.
-=520  \\$aCorrespondence, school records, diaries, photographs, glass plate negatives, drawings, clippings, and family papers documenting Richard Henry Pratt's work with and theories on the education of American Indians and his involvement with the Carlisle Indian School. Included is material relating to the controversies surrounding Pratt's work and extensive material relating to Indian culture.
+=520  \\$aThe papers primarily relate to Richard Henry Pratt's work and theories on education as a means of assimilating Native Americans into white American society. This is documented in correspondence, letter-press books, writings, diaries, notes, and photographs. Also included are papers relating to Pratt's family, responses to Pratt's work, and documentation about his founding and running the Carlisle Indian Industrial School, which removed Native American children from their homes and forced them to assimilate into white American society under the guise of providing education. The papers also include ledger art by Etahdleuh Doanmoe (Kiowa), drawings by other unidentified Native American artists, and photographs both of Native American subjects more broadly and of children at the Carlisle Indian Industrial School.
 =555  0\$aFinding aid available.
 =530  \\$aPortions available on microfilm$bfrom Beinecke Rare Book and Manuscript Library, Yale University.
 =561  \\$aGift of Margaret Hawkins Seelye, Edgar M. Hawkins, Jr., and Richard Pratt Hawkins, 1959 and 1976.
@@ -39,10 +39,11 @@
 =600  10$aPratt, Richard Henry,$d1840-1924.$0http://id.loc.gov/authorities/names/n85372052
 =600  10$aRoosevelt, Theodore,$d1858-1919.$0http://id.loc.gov/authorities/names/n79027239
 =610  20$aUnited States Indian School (Carlisle, Pa.)$0http://id.loc.gov/authorities/names/n83191048
+=650  \0$aEducation$zPennsylvania.
 =650  \0$aIndians of North America$xEducation.$0http://id.loc.gov/authorities/subjects/sh85065252
 =650  \0$aIndians of North America$xGovernment relations.$0http://id.loc.gov/authorities/subjects/sh85065278
 =650  \0$aSoldiers$zUnited States.$0http://id.loc.gov/authorities/subjects/sh85124578
-=650  \0$aTeachers$zPennsylvania.
+=650  \0$aSchool superintendents$zPennsylvania.$0http://id.loc.gov/authorities/subjects/sh2008102797
 =650  \0$aIndians of North America$vPictorial works.$0http://id.loc.gov/authorities/subjects/sh85065352
 =650  \0$aOff-reservation boarding schools$zUnited States.
 =650  \0$aIndian students$zUnited States.
